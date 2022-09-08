@@ -16,4 +16,4 @@ It took me 8 hours to make this project.Please find link of the project below.
 
 **[Live Project's netlify link](https://resilient-starburst-50f73d.netlify.app/ "Project link")**
 
-[![Project ScreenShot](./images/screenshot.png)](https://resilient-starburst-50f73d.netlify.app/ "Project link")
+[![Project ScreenShot](./images/Screenshot.png)](https://resilient-starburst-50f73d.netlify.app/ "Project link")
